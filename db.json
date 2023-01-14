@@ -1,0 +1,38 @@
+{
+  "colors": [
+    {
+      "id": 1,
+      "spanish_word": "Rojo",
+      "english_word": "Red"
+    },
+    {
+      "id": 2,
+      "spanish_word": "Negro",
+      "english_word": "Black"
+    }
+  ],
+  "days_of_week": [
+    {
+      "id": 1,
+      "spanish_word": "Lunes",
+      "english_word": "Monday"
+    },
+    {
+      "id": 2,
+      "spanish_word": "Martes",
+      "english_word": "Tuesday"
+    }
+  ],
+  "numbers": [
+    {
+      "id": 1,
+       "spanish_word": "Uno",
+      "english_word": "One"
+    },
+    {
+      "id": 2,
+      "spanish_word": "Dos",
+      "english_word": "Two"
+    }
+  ]
+}
